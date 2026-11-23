@@ -21,49 +21,49 @@
 
 @font-face {
     font-family: 'AngelicWar';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\AngelicWar.otf') format('opentype');
+    src: url('./assets/fonts/AngelicWar.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'OdadingSignature';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\OdadingSignature.ttf') format('truetype');
+    src: url('./assets/fonts/OdadingSignature.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Please write me a song';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\Please write me a song.ttf') format('truetype');
+    src: url('./assets/fonts/Please write me a song.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Straykid';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\Straykid.ttf') format('truetype');
+    src: url('./assets/fonts/Straykid.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'CHICKENPie';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\CHICKEN Pie.otf') format('truetype');
+    src: url('./assets/fonts/CHICKEN Pie.otf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'DaydreamDEMO';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\Daydream DEMO.otf') format('truetype');
+    src: url('./assets/fonts/Daydream DEMO.otf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Minecraft';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\Minecraft.ttf') format('truetype');
+    src: url('./assets/fonts/Minecraft.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -71,14 +71,14 @@
 
 @font-face {
     font-family: 'Heartless';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\Heartless.ttf') format('truetype');
+    src: url('./assets/fonts/Heartless.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'HoneyBrown';
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\Honey Brown.otf') format('truetype');
+    src: url('./assets/fonts/Honey Brown.otf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
