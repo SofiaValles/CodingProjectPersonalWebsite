@@ -73,7 +73,7 @@
 }
 
 .container-everything{
-    background-image: url("C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fondosakura.jpg");
+    background-image: url(./assets/fondo-sakura.jpg);
 }
 body > nav.navbar {
 position: sticky;
