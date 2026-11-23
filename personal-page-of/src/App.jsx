@@ -22,6 +22,7 @@ import hyunjinIdk from './assets/gifs/hyunjinIdk.gif'
 import fondosakura from './assets/fondosakura.jpg'
 
 import './App.css'
+import './index.css'
 
 function App() {
   const [count, setCount] = useState(0)
