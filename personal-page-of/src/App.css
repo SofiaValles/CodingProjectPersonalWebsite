@@ -71,7 +71,7 @@
     font-display: swap;
 }
 
-body{
+.container-everything{
     background-image: url("C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fondosakura.jpg");
 }
 body > nav.navbar {

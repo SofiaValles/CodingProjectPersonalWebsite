@@ -19,6 +19,7 @@ import hyunjinGifBlue from './assets/gifs/hyunjinGifBlue.gif'
 import hanDramaticgif from './assets/gifs/hanDramaticgif.gif'
 import hyunjinGifScene from './assets/gifs/hyunjinGifScene.gif'
 import hyunjinIdk from './assets/gifs/hyunjinIdk.gif'
+import fondosakura from './assets/fondosakura.jpg'
 
 import './App.css'
 
@@ -26,7 +27,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
+    <div div className="container-everything">
   <meta charSet="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Document</title>
