@@ -1,7 +1,7 @@
 /* fonts */
 @font-face {
     font-family: BlueWinter;
-    src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\BlueWinter.otf') format('opentype');
+    src: url('.\assets\fonts\BlueWinter.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
