@@ -1,11 +1,12 @@
 /* fonts */
 @font-face {
-    font-family: 'Blue Winter';
+    font-family: BlueWinter;
     src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\BlueWinter.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'AngelicWar';
     src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\AngelicWar.otf') format('opentype');
@@ -35,14 +36,14 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'CHICKEN Pie';
+    font-family: 'CHICKENPie';
     src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\CHICKEN Pie.otf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: 'Daydream DEMO';
+    font-family: 'DaydreamDEMO';
     src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\Daydream DEMO.otf') format('truetype');
     font-weight: 400;
     font-style: normal;
@@ -64,7 +65,7 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'Honey Brown';
+    font-family: 'HoneyBrown';
     src: url('C:\Users\Sofi\Documents\PROYECTOS-CODING\personal-page-of\src\assets\fonts\Honey Brown.otf') format('truetype');
     font-weight: 400;
     font-style: normal;
@@ -89,7 +90,7 @@ z-index: 1020;
     display: flex;
     margin-top: 2%;
     border-radius: 20px;
-    font-family:  'Blue Winter', Times, serif;
+    font-family:  BlueWinter, Times, serif;
     margin-bottom: 100px;
     margin-top: 100px;
     border-style:outset;
@@ -129,7 +130,7 @@ p{
     max-width: 310px;
     display: flex;
     justify-content: center;
-    font-family:  'Honey Brown', Times, serif;
+    font-family:  'HoneyBrown', Times, serif;
     font-size: 20px;
 }
 #NavbarSearchContainer nav {
@@ -210,7 +211,7 @@ button{
     border-radius: 10px;
     padding:10px;
     margin: 0;
-    font-family:  'Honey Brown', Times, serif;
+    font-family:  'HoneyBrown', Times, serif;
     font-size: 20px;
     border-style: dotted;
 }
@@ -231,7 +232,7 @@ button{
     justify-content: center;
     display:flex;
     color: rgb(179, 129, 138);
-    font-family:  'Honey Brown', Times, serif;
+    font-family:  'HoneyBrown', Times, serif;
 }
 .containerObsessionsAndWidgets{
     margin-bottom: 100px; 
@@ -245,7 +246,7 @@ button{
     border-radius: 10px;
     padding:10px;
     margin: 0;
-    font-family:  'Honey Brown', Times, serif;
+    font-family:  'HoneyBrown', Times, serif;
     font-size: 20px;
     display: flex;
     justify-content: center;
