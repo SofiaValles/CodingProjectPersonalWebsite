@@ -265,4 +265,15 @@ ul{
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
     border-style: dashed;
+    font-family:'AngelicWar', Times, serif;
+    font-size: large;
+  
 }
+/* h5{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: medium;   
+    font-family:'AngelicWar', Times, serif;
+    font-weight: bold;
+
+} */

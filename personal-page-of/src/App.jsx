@@ -187,6 +187,7 @@ function App() {
   </div>
 
   <div className="container-blog">
+    {/* <h5>Blog entries</h5> */}
     <p id="Blog-entry">23/11/26 So, in between today and yesterday, I've been trying to get back into coding and
       bring back this old page I've made in february, to refresh eveything I knew about html and css.
       <br /> Pd: I love the feeling of old 2000's pages so that's why it's all raw html hehe. </p>
